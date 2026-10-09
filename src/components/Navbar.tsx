@@ -43,7 +43,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onOpenBooking }) => {
           <a href="#menu" className="hover:text-[#d4af37] transition-colors">Menu</a>
           <a href="#story" className="hover:text-[#d4af37] transition-colors">Our Story</a>
           <a href="#reviews" className="hover:text-[#d4af37] transition-colors">Google Reviews</a>
-          <a href="#location" className="hover:text-[#d4af37] transition-colors">Location & Map</a>
+          <a href="#location" className="hover:text-[#d4af37] transition-colors">Find Us</a>
           <a href="#contact" className="hover:text-[#d4af37] transition-colors">Inquiries</a>
         </nav>
 
