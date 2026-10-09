@@ -1,0 +1,7 @@
+{
+  "name": "Toma Toma - Contemporary Filipino Grill & Cocktail Bar",
+  "description": "Makati's premier wood-fired Filipino grill and craft cocktail lounge at Green Sun. Table reservations, food and cocktail menus, Google reviews, and downloadable menu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
